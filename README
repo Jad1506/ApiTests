@@ -1,0 +1,19 @@
+Execute from Visual Studio Test Explorer or from Command Line
+
+Open Command Line to Repository on Disk
+Execute "dotnet test"
+
+Failing Tests: 1
+Failed   Delete Post
+Error Message:
+   Expected: NotFound
+  But was:  OK
+
+Stack Trace:
+   at Tests.ApiTests.DeletePost(String baseUrl, String requestUrl, Method requestMethod, HttpStatusCode expectedHttpStatusCode) in C:\Users\jadno\Source\repos\ApiTests\ApiTests\ApiTests.cs:line 84
+   
+Passing Tests: 4
+Check Content Type is application/json
+Get Post Status Code OK
+Create Post Status Code Created
+Create Post
