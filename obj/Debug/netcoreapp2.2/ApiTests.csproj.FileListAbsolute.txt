@@ -1,0 +1,14 @@
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\obj\Debug\netcoreapp2.2\ApiTests.csprojAssemblyReference.cache
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\obj\Debug\netcoreapp2.2\ApiTests.csproj.CoreCompileInputs.cache
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\obj\Debug\netcoreapp2.2\ApiTests.AssemblyInfoInputs.cache
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\obj\Debug\netcoreapp2.2\ApiTests.AssemblyInfo.cs
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\bin\Debug\netcoreapp2.2\ApiTests.deps.json
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\bin\Debug\netcoreapp2.2\ApiTests.runtimeconfig.json
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\bin\Debug\netcoreapp2.2\ApiTests.runtimeconfig.dev.json
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\bin\Debug\netcoreapp2.2\ApiTests.dll
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\bin\Debug\netcoreapp2.2\ApiTests.pdb
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\obj\Debug\netcoreapp2.2\ApiTests.dll
+C:\Users\jadno\Source\repos\ApiTests\ApiTests\obj\Debug\netcoreapp2.2\ApiTests.pdb
