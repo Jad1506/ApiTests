@@ -17,3 +17,7 @@ Check Content Type is application/json
 Get Post Status Code OK
 Create Post Status Code Created
 Create Post
+
+
+Justification
+I chose NUnit as the TestCase attribute allows for data driven as well as multiple defined permutations for a test case without having to repeat yourself.
