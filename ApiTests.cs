@@ -67,7 +67,6 @@ namespace Tests
             RestRequest deleteRequest = new RestRequest(requestUrl, requestMethod);
             RestRequest getRequest = new RestRequest(requestUrl, Method.GET);
 
-
             // act
             // check resource exists
             IRestResponse getResponse = client.Execute(getRequest);
@@ -76,7 +75,7 @@ namespace Tests
             // Delete
             IRestResponse deleteResponse = client.Execute(deleteRequest);
             // check delete 
-            Assert.That(deleteResponse.StatusCode, Is.EqualTo(HttpStatusCode.OK));
+            Assert.That(deleteResponse.StatusCode, Is.EqualTo(expectedHttpStatusCode));
 
             IRestResponse getResponseAfterDelete = client.Execute(getRequest);
 
